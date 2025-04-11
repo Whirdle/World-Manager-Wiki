@@ -10,11 +10,11 @@ World owners have the ability to:
 
 - Opt in to mob usage/access mob editing tools
 
-- Opt in to Increased world height limit
+- Opt in to Increased world height limit <sub>soon™️</sub>
 
-- Pin a world to have priority and prevent automatic expiriation
+- Pin a world to have priority and prevent automatic expiriation <sub>soon™️</sub>
 
-- Trust users
+- Trust users <sub>soon™️</sub>
 
 - Kick users
 
