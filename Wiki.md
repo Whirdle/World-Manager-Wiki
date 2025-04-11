@@ -1,5 +1,6 @@
 ## Guide for using private worlds
 Private worlds are currently in beta and only available to selected testers.
+
 <sub>Some of these features may not be fully implimented</sub>
 
 Private worlds are for more advanced builders to have as much space and resources as they need whatever they may need. 
