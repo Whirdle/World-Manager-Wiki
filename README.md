@@ -1,2 +1,4 @@
-# World-Manager-Wiki
-Wiki for World Manager plugin
+# World Manager Wiki
+
+## usage
+
