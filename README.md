@@ -4,7 +4,7 @@
 ## Syntax
 > `<argument>` indicates a required argument
 >
-> `[argument]` indicates an option argument with a default value if its not specified
+> `[argument]` indicates an optional argument with a default value if its not specified
 >
 > `subcommand|sc` indicates aliases
 
