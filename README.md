@@ -51,6 +51,10 @@ __World trusting:__
 >
 > `<user>` specifies who you’re trusting to the world
 
+__Removing players:__
+> `/world remove <user>`
+>
+> `<user>` specifies the user to remove trust from
 
 __Kicking:__
 > `/world kick|k <user>`
