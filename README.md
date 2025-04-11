@@ -1,5 +1,10 @@
 # World Manager Wiki
 
+## Syntax
+> `<argument>` indicates a required argument
+>
+> `[argument]` indicates an option argument with a default value if its not specified
+
 ## usage
 __Creating worlds:__
 > `/world create <type> [owner]`
