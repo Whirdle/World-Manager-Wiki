@@ -1,4 +1,20 @@
-# World Manager Wiki
+## Guide for using private worlds
+Private worlds are currently in beta and only available to selected testers.
+
+Private worlds are for more advanced builders to have as much space and resources as they need whatever they may need. 
+
+World owners have the ability to:
+- Choose from different world generation types
+
+- Opt in to mob usage/access mob editing tools
+
+- Pin a world to have priority and prevent automatic expiriation
+
+- Trust users
+
+- Kick users
+
+- Download worlds
 
 
 ## Syntax
